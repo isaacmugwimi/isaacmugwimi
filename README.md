@@ -17,6 +17,7 @@
 
 <br />
 
+
 ## 🧑‍💻 About Me
 - 🌍 Based in **Kenya**
 - 🔭 Working on **JavaScript, React, Python projects**
