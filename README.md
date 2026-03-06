@@ -56,19 +56,18 @@ https://github.com/isaacmugwimi/College
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=isaacmugwimi&show_icons=true&theme=tokyonight" height="165"/>
-
-<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=isaacmugwimi&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacmugwimi&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmugwimi&layout=compact&theme=tokyonight" height="165" alt="Top Langs" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=isaacmugwimi&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacmugwimi&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
 
 ## 📈 Contribution Graph
 
