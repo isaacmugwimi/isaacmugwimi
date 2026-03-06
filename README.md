@@ -37,24 +37,26 @@ Building real-world applications and continuously learning modern technologies.
 
 ---
 
+---
+
 ## 🚀 Featured Projects
 
 <p align="center">
 
 <a href="https://github.com/isaacmugwimi/Expense-Tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=isaacmugwimi&repo=Expense-Tracker&theme=tokyonight"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=isaacmugwimi&repo=Expense-Tracker&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/isaacmugwimi/fitness-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=isaacmugwimi&repo=fitness-app&theme=tokyonight"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=isaacmugwimi&repo=fitness-app&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/isaacmugwimi/FaceRecognitionSystem">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=isaacmugwimi&repo=FaceRecognitionSystem&theme=tokyonight"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=isaacmugwimi&repo=FaceRecognitionSystem&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/isaacmugwimi/College">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=isaacmugwimi&repo=College&theme=tokyonight"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=isaacmugwimi&repo=College&theme=tokyonight"/>
 </a>
 
 </p>
