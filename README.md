@@ -85,3 +85,8 @@ https://github.com/isaacmugwimi
 ---
 
 ⭐ *“Code. Learn. Build. Repeat.”*
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/isaacmugwimi/isaacmugwimi/output/github-contribution-grid-snake.svg"/>
+</p>
