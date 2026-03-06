@@ -20,7 +20,8 @@ Building real-world applications and continuously learning modern technologies.
 
 - 🌍 Based in **Kenya**
 - 💻 Passionate about **Full-Stack Development**
-- 🚀 Currently building **Bright Coders platform**
+- 🚀 Currently building **Focus Pixel platform**
+- ✅ Completed building **Bright Coders platform**
 - 📚 Learning **modern frontend & backend development**
 - 🤝 Open to **internships and collaborations**
 
