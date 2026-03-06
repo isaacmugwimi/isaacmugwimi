@@ -37,25 +37,27 @@ Building real-world applications and continuously learning modern technologies.
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 💰 Expense Tracker
-Track daily expenses using JavaScript  
-https://github.com/isaacmugwimi/Expense-Tracker
+<p align="center">
 
-### 🏋️ Fitness App
-Interactive frontend fitness application  
-https://github.com/isaacmugwimi/fitness-app
+<a href="https://github.com/isaacmugwimi/Expense-Tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=isaacmugwimi&repo=Expense-Tracker&theme=tokyonight"/>
+</a>
 
-### 🧠 Face Recognition System
-Python-based face recognition attendance system  
-https://github.com/isaacmugwimi/FaceRecognitionSystem
+<a href="https://github.com/isaacmugwimi/fitness-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=isaacmugwimi&repo=fitness-app&theme=tokyonight"/>
+</a>
 
-### 🎓 College Website
-School information platform  
-https://github.com/isaacmugwimi/College
+<a href="https://github.com/isaacmugwimi/FaceRecognitionSystem">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=isaacmugwimi&repo=FaceRecognitionSystem&theme=tokyonight"/>
+</a>
 
----
+<a href="https://github.com/isaacmugwimi/College">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=isaacmugwimi&repo=College&theme=tokyonight"/>
+</a>
+
+</p>
 
 ---
 
@@ -69,6 +71,12 @@ https://github.com/isaacmugwimi/College
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacmugwimi&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=isaacmugwimi&theme=tokyonight&row=1"/>
 </p>
 
 ## 📈 Contribution Graph
