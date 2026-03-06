@@ -61,8 +61,8 @@ https://github.com/isaacmugwimi/College
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacmugwimi&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmugwimi&layout=compact&theme=tokyonight" height="165" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacmugwimi&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmugwimi&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
