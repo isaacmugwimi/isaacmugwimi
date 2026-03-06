@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Isaac Mugwimi</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Python;Building+Real+World+Projects;Open+to+Internships"/>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=isaacmugwimi&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 <h3 align="center">
 Full-Stack Developer | JavaScript • React • Python
@@ -53,16 +59,22 @@ https://github.com/isaacmugwimi/College
 ## 📊 GitHub Analytics
 
 <p align="center">
+<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=isaacmugwimi&show_icons=true&theme=tokyonight" height="165"/>
 
-<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=isaacmugwimi&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=isaacmugwimi&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
-<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=isaacmugwimi&layout=compact&theme=tokyonight"/>
-
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=isaacmugwimi&theme=tokyonight"/>
-
 </p>
 
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacmugwimi&theme=tokyo-night"/>
+</p>
 
 ## 🤝 Connect With Me
 
