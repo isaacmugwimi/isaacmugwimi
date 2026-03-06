@@ -1,95 +1,74 @@
-<h1 align="center">
-  Hi 👋, I'm Isaac Mugwimi
-</h1>
+<h1 align="center">Hi 👋, I'm Isaac Mugwimi</h1>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Python;Building+Real-World+Projects;Open+to+Collaborations" />
-  </a>
+Full-Stack Developer | JavaScript • React • Python
 </h3>
 
+<p align="center">
+Building real-world applications and continuously learning modern technologies.
+</p>
 
-
-
-💻 A passionate Full-Stack Developer on a mission to turn ideas into real-world applications.  
-🚀 Currently building an **Bright-Coders website** and exploring modern web technologies.  
-🤝 Open to collaboration and learning opportunities.
-
-<br />
-
+---
 
 ## 🧑‍💻 About Me
+
 - 🌍 Based in **Kenya**
-- 🔭 Working on **JavaScript, React, Python projects**
-- 🌱 Currently improving my **frontend & backend skills**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Python**
-- 📫 Reach me via GitHub
+- 💻 Passionate about **Full-Stack Development**
+- 🚀 Currently building **Bright Coders platform**
+- 📚 Learning **modern frontend & backend development**
+- 🤝 Open to **internships and collaborations**
 
-<br />
+---
 
-## 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+## ⚡ Tech Stack
 
-<br />
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode"/>
+
+</p>
+
+---
 
 ## 📌 Featured Projects
 
 ### 💰 Expense Tracker
-🔹 Track daily expenses using JavaScript  
-🔗 https://github.com/isaacmugwimi/Expense-Tracker
-
----
+Track daily expenses using JavaScript  
+https://github.com/isaacmugwimi/Expense-Tracker
 
 ### 🏋️ Fitness App
-🔹 Interactive frontend web app  
-🔗 https://github.com/isaacmugwimi/fitness-app
-
----
+Interactive frontend fitness application  
+https://github.com/isaacmugwimi/fitness-app
 
 ### 🧠 Face Recognition System
-🔹 Python-based face recognition attendance system  
-🔗 https://github.com/isaacmugwimi/FaceRecognitionSystem
+Python-based face recognition attendance system  
+https://github.com/isaacmugwimi/FaceRecognitionSystem
+
+### 🎓 College Website
+School information platform  
+https://github.com/isaacmugwimi/College
 
 ---
-
-### 🎓 College Website (ScholarSpot)
-🔹 School information and program showcase platform  
-🔗 https://github.com/isaacmugwimi/College
-
-<br />
 
 ## 📊 GitHub Analytics
 
-
-
-
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=isaacmugwimi&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=isaacmugwimi&layout=compact&theme=tokyonight" height="165"/>
+
+<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=isaacmugwimi&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=isaacmugwimi&layout=compact&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=isaacmugwimi&theme=tokyonight"/>
+
 </p>
 
-<br />
+---
 
-## 🤝 Let's Connect
-- 🌐 GitHub: https://github.com/isaacmugwimi
+## 🤝 Connect With Me
 
-✨ *“Code. Learn. Build. Repeat.”*
+🌐 GitHub  
+https://github.com/isaacmugwimi
 
-<br/>
+---
 
-## 🧠 What I Bring
-- Clean, readable code
-- Strong problem-solving mindset
-- Real project experience
-- Willingness to learn and adapt
-- Team collaboration & communication
-
-📬 **Open to internships, junior roles, and collaborations**
-
-
+⭐ *“Code. Learn. Build. Repeat.”*
