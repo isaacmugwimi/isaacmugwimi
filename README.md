@@ -44,7 +44,7 @@ Building real-world applications and continuously learning modern technologies.
 <p align="center">
 
 <a href="https://github.com/isaacmugwimi/Bright-Coders-Website">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=isaacmugwimi&repo=Bright Coders Academy&theme=tokyonight"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=isaacmugwimi&repo=Bright-Coders-Website&theme=tokyonight"/>
 </a>
 
 
