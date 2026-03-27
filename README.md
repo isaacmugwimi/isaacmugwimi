@@ -27,6 +27,16 @@ Building real-world applications and continuously learning modern technologies.
 
 ---
 
+## 🛠️ Systems Engineering & Infrastructure
+*Beyond software, I manage the environments that code runs on.*
+
+- **Storage Optimization:** Successfully executed a critical 465GB HDD to 256GB SSD migration; resolved **BitLocker encryption** and **GRUB/UEFI bootloader** conflicts via CLI diagnostics.
+- **Network Infrastructure:** Proficient in physical layer setup (Ethernet termination/clipping), router configuration, and network diagnostics using **ICMP (Ping)** and traceroute tools.
+- **OS Deployment:** Experienced in clean installations and environment setup for **Windows, Ubuntu, and Kali Linux**.
+- **Software Provisioning:** Skilled in deploying enterprise suites (Microsoft 365) and managing package installations in Linux environments.
+
+---
+
 ## ⚡ Tech Stack
 
 <p align="center">
