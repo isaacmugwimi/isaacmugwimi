@@ -33,10 +33,10 @@ Building real-world applications and continuously learning modern technologies.
 
 A full-stack healthcare system built in a collaborative environment to assist with cancer risk detection, patient management, and analytics.
 
--👨‍💻 Built as part of an organization team project
--⚙️ Includes dashboard, authentication, hospital profile, and staff management
--📊 Features analytics, patient history tracking, and assessment workflows
-
+- 👨‍💻 Built as part of an organization team project
+- ⚙️ Includes dashboard, authentication, hospital profile, and staff management
+- 📊 Features analytics, patient history tracking, and assessment workflows
+---
 Tech Stack:
 
 Frontend: **HTML, CSS, JavaScript**
