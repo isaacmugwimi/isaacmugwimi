@@ -36,13 +36,13 @@ A full-stack healthcare system built in a collaborative environment to assist wi
 - 👨‍💻 Built as part of an organization team project
 - ⚙️ Includes dashboard, authentication, hospital profile, and staff management
 - 📊 Features analytics, patient history tracking, and assessment workflows
----
+
 Tech Stack:
 
 Frontend: **HTML, CSS, JavaScript**
 Backend: **Python (Flask)**
 Database: **MySQL**
-
+---
 ## 🛠️ Systems Engineering & Infrastructure
 *Beyond software, I manage the environments that code runs on.*
 
