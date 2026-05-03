@@ -73,10 +73,13 @@ Tech Stack:
 
 <p align="center">
 
+<a href="https://github.com/bosslee-1/INTELLIGENT-CANCER-DETECTION-SYSTEM">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bosslee-1&repo=INTELLIGENT-CANCER-DETECTION-SYSTEM&theme=tokyonight"/>
+</a>
+
 <a href="https://github.com/isaacmugwimi/Bright-Coders-Website">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=isaacmugwimi&repo=Bright-Coders-Website&theme=tokyonight"/>
 </a>
-
 
 <a href="https://github.com/isaacmugwimi/Expense-Tracker">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=isaacmugwimi&repo=Expense-Tracker&theme=tokyonight"/>
