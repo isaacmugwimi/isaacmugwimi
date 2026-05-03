@@ -38,10 +38,10 @@ A full-stack healthcare system built in a collaborative environment to assist wi
 - 📊 Features analytics, patient history tracking, and assessment workflows
 
 Tech Stack:
+ - Frontend: **HTML, CSS, JavaScript**
+ - Backend: **Python (Flask)**
+ - Database: **MySQL**
 
-Frontend: **HTML, CSS, JavaScript**
-Backend: **Python (Flask)**
-Database: **MySQL**
 ---
 ## 🛠️ Systems Engineering & Infrastructure
 *Beyond software, I manage the environments that code runs on.*
