@@ -21,11 +21,27 @@ Building real-world applications and continuously learning modern technologies.
 - 🌍 Based in **Kenya**
 - 💻 Passionate about **Full-Stack Development**
 - 🚀 Currently building **Focus Pixel platform**
+- 🧠 Working on **Intelligent Cancer Detection System (ICDS)** in a team environment
 - ✅ Completed building **Bright Coders platform**
 - 📚 Learning **modern frontend & backend development**
 - 🤝 Open to **internships and collaborations**
 
 ---
+
+🧠 Featured Project (Team Collaboration)
+🏥 Intelligent Cancer Detection System (ICDS)
+
+A full-stack healthcare system built in a collaborative environment to assist with cancer risk detection, patient management, and analytics.
+
+👨‍💻 Built as part of an organization team project
+⚙️ Includes dashboard, authentication, hospital profile, and staff management
+📊 Features analytics, patient history tracking, and assessment workflows
+
+Tech Stack:
+
+Frontend: HTML, CSS, JavaScript
+Backend: Python (Flask)
+Database: MySQL
 
 ## 🛠️ Systems Engineering & Infrastructure
 *Beyond software, I manage the environments that code runs on.*
