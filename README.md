@@ -28,20 +28,20 @@ Building real-world applications and continuously learning modern technologies.
 
 ---
 
-🧠 Featured Project (Team Collaboration)
-🏥 Intelligent Cancer Detection System (ICDS)
+## 🧠 Featured Project (Team Collaboration)
+*🏥 Intelligent Cancer Detection System (ICDS)*
 
 A full-stack healthcare system built in a collaborative environment to assist with cancer risk detection, patient management, and analytics.
 
-👨‍💻 Built as part of an organization team project
-⚙️ Includes dashboard, authentication, hospital profile, and staff management
-📊 Features analytics, patient history tracking, and assessment workflows
+-👨‍💻 Built as part of an organization team project
+-⚙️ Includes dashboard, authentication, hospital profile, and staff management
+-📊 Features analytics, patient history tracking, and assessment workflows
 
 Tech Stack:
 
-Frontend: HTML, CSS, JavaScript
-Backend: Python (Flask)
-Database: MySQL
+Frontend: **HTML, CSS, JavaScript**
+Backend: **Python (Flask)**
+Database: **MySQL**
 
 ## 🛠️ Systems Engineering & Infrastructure
 *Beyond software, I manage the environments that code runs on.*
